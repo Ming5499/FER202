@@ -1,0 +1,59 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "username": "fudn",
+      "email": "fudn@fptu.edu.vn",
+      "password": "123456",
+      "role": "admin",
+      "status": "active",
+      "avatar": "/images/users/fudn.png"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "status": "active",
+      "avatar": "/images/users/admin.png"
+    },
+    {
+      "id": "3",
+      "username": "loanlt",
+      "email": "loanlt@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "locked",
+      "avatar": "/images/users/loanlt.png"
+    },
+    {
+      "id": "4",
+      "username": "thienbao",
+      "email": "thienbao@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "locked",
+      "avatar": "/images/users/thienbao.png"
+    },
+    {
+      "id": "5",
+      "username": "thanhdat",
+      "email": "thanhdat@mail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "locked",
+      "avatar": "/images/users/thanhdat.png"
+    },
+    {
+      "id": "6",
+      "username": "thanhtai",
+      "email": "thanhtai@mail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "active",
+      "avatar": "/images/users/thanhtai.png"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
